@@ -23,12 +23,6 @@
   <!-- Add more social icons here if needed -->
 </p>
 
-<!-- Add a section for GitHub stats -->
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswidabas123&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 <!-- Add a section for languages used -->
 <h3 align="left">Languages Used:</h3>
 <p align="center">
