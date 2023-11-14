@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, Data Analysis, Prediction, and Statistics.**
 
-- 📫 You can reach me at **tejaswi@bu.edu**
+- 📫 You can reach me at **tejaswid.work@gmail.com**
 
 - ⚡ Fun fact: **Data scientists spend 80% of their time cleaning and preparing data, and the other 20% complaining about cleaning and preparing data! 🧹💻🤣 <3**
 
