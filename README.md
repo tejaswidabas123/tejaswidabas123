@@ -44,6 +44,5 @@
 <!-- Contribution Graph -->
 <h3 align="left">Contribution Graph:</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tejaswidabas123&theme=github" alt="Contribution Graph" />
+  <img src="https://ghactivity.herokuapp.com/tejaswidabas123" alt="Contribution Graph" />
 </p>
-
