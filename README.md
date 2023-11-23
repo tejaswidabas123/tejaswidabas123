@@ -41,8 +41,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswidabas123&theme=radical" alt="GitHub Streak" />
 </p>
 
-<!-- Contribution Graph -->
-<h3 align="left">Contribution Graph:</h3>
+<!-- GitHub Contributions Card -->
+<h3 align="left">GitHub Contributions:</h3>
 <p align="center">
-  <img src="https://ghactivity.herokuapp.com/tejaswidabas123" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaswidabas123&hide_title=true&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="GitHub Contributions" />
 </p>
+
