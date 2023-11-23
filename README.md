@@ -15,16 +15,24 @@
 
 - ⚡ Fun fact: **Data scientists spend 80% of their time cleaning and preparing data, and the other 20% complaining about cleaning and preparing data! 🧹💻🤣 <3**
 
+<!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tejasdabas/" target="blank">
+  <a href="https://www.linkedin.com/in/tejasdabas/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="30" width="40" />
   </a>
-  <!-- Add more social icons here if needed -->
+  <a href="https://github.com/tejaswidabas123" target="_blank">
+    <img align="center" src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
+    <img align="center" src="https://image.flaticon.com/icons/svg/25/25657.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <!-- Add more social icons here -->
 </p>
 
+
 <!-- Languages Used and GitHub Stats -->
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
   <!-- Languages Used -->
   <div style="flex: 1; margin: 10px;">
     <h3 align="left">Languages Used:</h3>
@@ -49,10 +57,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswidabas123&theme=radical" alt="GitHub Streak" />
   </div>
 
-  <!-- Contribution Graph -->
-  <div style="flex: 1; margin: 10px;">
-    <h3 align="left">Contribution Graph:</h3>
-    <img src="https://activity-graph.herokuapp.com/graph?username=tejaswidabas123&theme=github" alt="Contribution Graph" />
-  </div>
-</div>
+
 
