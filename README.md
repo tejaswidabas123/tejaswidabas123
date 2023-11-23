@@ -23,9 +23,27 @@
   <!-- Add more social icons here if needed -->
 </p>
 
-<!-- Add a section for languages used -->
+<!-- Languages Used -->
 <h3 align="left">Languages Used:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswidabas123&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- GitHub Stats -->
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaswidabas123&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!-- Recent GitHub Activity -->
+<h3 align="left">Recent GitHub Activity:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswidabas123&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- Contribution Graph -->
+<h3 align="left">Contribution Graph:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tejaswidabas123&theme=github" alt="Contribution Graph" />
 </p>
 
