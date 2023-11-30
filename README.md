@@ -21,12 +21,6 @@
   <a href="https://www.linkedin.com/in/tejasdabas/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/tejaswidabas123" target="_blank">
-    <img align="center" src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
-    <img align="center" src="https://image.flaticon.com/icons/svg/25/25657.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <!-- Add more social icons here -->
 </p>
 
