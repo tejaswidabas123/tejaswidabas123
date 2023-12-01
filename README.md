@@ -25,7 +25,7 @@
 </p>
 
 <!-- Languages Used and GitHub Stats -->
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin: 10px;">
 
   <!-- Languages Used -->
   <div style="flex: 1; margin: 10px;">
@@ -38,6 +38,11 @@
     <h3 align="left">GitHub Stats:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=tejaswidabas123&show_icons=true&theme=radical" alt="GitHub Stats" />
   </div>
+
+</div>
+
+<!-- GitHub Contributions and Recent GitHub Activity -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin: 10px;">
 
   <!-- GitHub Contributions (Right) -->
   <div style="flex: 1; margin: 10px;">
