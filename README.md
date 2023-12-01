@@ -34,13 +34,13 @@
 
   <!-- GitHub Stats -->
   <div style="flex: 1; margin: 10px;">
-    <h3 align="left">GitHub Stats:</h3>
+    <h3 align="centre">GitHub Stats:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=tejaswidabas123&show_icons=true&theme=radical" alt="GitHub Stats" />
   </div>
 
   <!-- GitHub Contributions -->
   <div style="flex: 1; margin: 10px;">
-    <h3 align="left">GitHub Contributions:</h3>
+    <h3 align="right">GitHub Contributions:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=tejaswidabas123&hide_title=true&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="GitHub Contributions" />
   </div>
 
