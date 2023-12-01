@@ -25,39 +25,31 @@
 </p>
 
 <!-- Languages Used and GitHub Stats -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin: 10px;">
-
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
   <!-- Languages Used -->
   <div style="flex: 1; margin: 10px;">
     <h3 align="left">Languages Used:</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswidabas123&layout=compact&theme=radical" alt="Top Languages" />
   </div>
 
-  <!-- GitHub Stats (Left) -->
+  <!-- GitHub Stats -->
   <div style="flex: 1; margin: 10px;">
     <h3 align="left">GitHub Stats:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=tejaswidabas123&show_icons=true&theme=radical" alt="GitHub Stats" />
   </div>
 
-</div>
-
-<!-- GitHub Contributions and Recent GitHub Activity -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin: 10px;">
-
-  <!-- GitHub Contributions (Right) -->
+  <!-- GitHub Contributions -->
   <div style="flex: 1; margin: 10px;">
-    <h3 align="right">GitHub Contributions:</h3>
+    <h3 align="left">GitHub Contributions:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=tejaswidabas123&hide_title=true&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="GitHub Contributions" />
   </div>
 
-  <!-- Recent GitHub Activity (Right) -->
+  <!-- Recent GitHub Activity -->
   <div style="flex: 1; margin: 10px;">
-    <h3 align="right">Recent GitHub Activity:</h3>
+    <h3 align="left">Recent GitHub Activity:</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswidabas123&theme=radical" alt="GitHub Streak" />
   </div>
-
 </div>
-
 
 
 
