@@ -24,7 +24,6 @@
   <!-- Add more social icons here -->
 </p>
 
-
 <!-- Languages Used and GitHub Stats -->
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
   <!-- Languages Used -->
@@ -50,6 +49,7 @@
     <h3 align="left">Recent GitHub Activity:</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswidabas123&theme=radical" alt="GitHub Streak" />
   </div>
+</div>
 
 
 
