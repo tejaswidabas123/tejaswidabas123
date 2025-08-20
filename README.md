@@ -69,7 +69,7 @@
   <a href="https://www.linkedin.com/in/tejasdabas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tejaswi%20Dabas-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:tejaswid.work@gmail.com" target="_blank">
+  <a href="mailto:tejasd674@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-tejaswid.work%40gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://public.tableau.com/app/profile/tejaswi.dabas/vizzes" target="_blank">
